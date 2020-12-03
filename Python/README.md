@@ -29,3 +29,14 @@ Run `python drawer.py`. It will open a window. Draw the characters over there an
 <img src="https://github.com/samkit-jain/Handwriting-Recognition/blob/master/Screenshots/label_E.png" title="Character identified as E"><br/>
 <img src="https://github.com/samkit-jain/Handwriting-Recognition/blob/master/Screenshots/label_4.png" title="Character identified as 4"><br/>
 <img src="https://github.com/samkit-jain/Handwriting-Recognition/blob/master/Screenshots/label_5E4.png" title="Console output"><br/>
+
+## TIME
+
+### MAC book air
+    macOS Big Sur
+    Version : 11.0.1(20B29)
+    CPU : 1,6 GHz Dual Core Intel Core i5
+    Memory : 8GB 2133 MHz LPDDR3
+    Graphic : Intel UHD Graphics 617 1536 MB
+    From : 4:00pm (roughly)
+    To : 
